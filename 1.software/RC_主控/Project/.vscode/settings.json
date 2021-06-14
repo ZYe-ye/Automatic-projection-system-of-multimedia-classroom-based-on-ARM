@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "xmemory": "c",
+        "xstring": "c",
+        "xutility": "c"
+    }
+}
